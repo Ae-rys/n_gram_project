@@ -1,3 +1,3 @@
 # n_gram_project
 
-See "readme.pdf" for more info.
+See "readme.pdf" (in french) for more info.
